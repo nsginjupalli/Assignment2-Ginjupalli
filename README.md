@@ -19,3 +19,4 @@ The Mysore Palace, officially known as **Mysuru Palace**, is a historical palace
 * Badminton kit
 * Toys
 
+![saibaba](images/saibaba.jpg)

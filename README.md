@@ -38,3 +38,11 @@ Items that can be brought to my favourite place for maximum enjoyment.
 | Kaju Burfi| Sweet Magic | $4 |
 
 ***
+
+### My Inspiring Quotes
+
+> The Battles you fight, Shape the warrior you  become!! -*Bhagath Singh*
+
+> The secret of getting ahead... is getting started! -*Mark Twain*
+
+> Don't be Afraid to give up the good to go for the great! -*John D.RockeFeller*

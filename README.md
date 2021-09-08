@@ -11,4 +11,11 @@ The Mysore Palace, officially known as **Mysuru Palace**, is a historical palace
 1. Take a Car from marryville to kansas airport 
 2. Take a flight from kansas airport to Texas airport
 3. From Texas  take a flight to Delhi
-4. From Delhi take a cab to Bangalore
+    1. From Delhi take a flight to Bangalore
+    
+
+* Debit card
+* Cash
+* Badminton kit
+* Toys
+

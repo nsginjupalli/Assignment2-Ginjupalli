@@ -26,3 +26,15 @@ Items that can be brought to my favourite place for maximum enjoyment.
 
 [link to AboutMe](https://github.com/nsginjupalli/Assignment2-Ginjupalli/blob/e4b849659a86156cb5c48232d16588fb30495382/AboutMe.md)
 
+***
+
+### Tables represent the food items i would recommend.
+
+| Dish | Locality | Prices |
+| :---: | :---: | :---: |
+| Biriyani | Paradise | $5 |
+| Frankiee | ForumMall | $2 |
+| Coconut milk | DLF | $3 |
+| Kaju Burfi| Sweet Magic | $4 |
+
+***

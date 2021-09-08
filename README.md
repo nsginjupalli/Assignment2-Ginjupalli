@@ -13,10 +13,12 @@ The Mysore Palace, officially known as **Mysuru Palace**, is a historical palace
 3. From Texas  take a flight to Delhi
     1. From Delhi take a flight to Bangalore
     
+Items that can be brought to my favourite place for maximum enjoyment.
 
-* Debit card
-* Cash
+* Money
+* Food
 * Badminton kit
-* Toys
+* Playing Cards
+* Drinks
 
 

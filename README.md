@@ -21,4 +21,8 @@ Items that can be brought to my favourite place for maximum enjoyment.
 * Playing Cards
 * Drinks
 
+***
+
+![saibaba](images/saibaba.jpg)
+
 
